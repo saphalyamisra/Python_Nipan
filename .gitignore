@@ -1,0 +1,18 @@
+# Ignore JetBrains IDE project settings
+.idea/
+
+# Ignore user-specific workspace settings
+*.iml
+*.iws
+
+# Ignore compiler output
+out/
+
+# Ignore virtual environments (for Python projects)
+venv/
+.env/
+
+# Ignore logs and other OS-specific files
+*.log
+.DS_Store
+Thumbs.db
